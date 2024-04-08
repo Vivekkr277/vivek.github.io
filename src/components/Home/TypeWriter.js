@@ -6,9 +6,7 @@ function TypeWriter() {
     <Typewriter
       options={{
         strings: [
-          "React Native Developer",
-          "Front End Developer",
-          "Software Engineer",
+             "Software Developer",
           ],
         autoStart: true,
         loop: true,

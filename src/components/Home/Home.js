@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/vivek.jpg";
+import myImg from "../../Assets/vivek1.png";
 import SocialMedia from "../SocialMedia";
 import TypeWriter from "./TypeWriter";
 
