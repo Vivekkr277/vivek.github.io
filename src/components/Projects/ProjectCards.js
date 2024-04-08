@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-// import Button from "react-bootstrap/Button";
-// import { BiLinkExternal } from "react-icons/bi";
+import Button from "react-bootstrap/Button";
+import { BiLinkExternal } from "react-icons/bi";
 
 function ProjectCards(props) {
   return (
@@ -13,12 +13,18 @@ function ProjectCards(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
-        {/* <Button variant="primary" href={props.link} target="_blank"className="download-button">
+        <Button variant="primary" href={props.link} target="_blank"className="download-button">
           <BiLinkExternal /> &nbsp;
-          {props.isBlog ? "View Blog" : "View Project"}
-        </Button> */}
+          {props.isBlog ? "View Blog" : "Code"}
+        </Button>
+        {/* <a href="https://bobbyhadz.com" target="_blank" rel="noopener noreferrer">
+          <button>Click</button>
+          </a> */}
       </Card.Body>
     </Card>
   );
 }
+
+
 export default ProjectCards;
+

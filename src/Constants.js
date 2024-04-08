@@ -1,13 +1,6 @@
-import AUTOMATION from "./Assets/Projects/3automation.jpg";
-import COAST from "./Assets/Projects/coast.jpg";
-import DROPSHIP from "./Assets/Projects/dropship.jpg";
-import GOOD_FOOD_DISCOUNTS from "./Assets/Projects/goodFoodDiscounts.png";
-import GUAMEDIA from "./Assets/Projects/guamedia.jpg";
-import HSP from "./Assets/Projects/hsp.png";
-// import COSMOS from "./Assets/Projects/cosmos.jpg";
+
 import restaurant_img2 from "../src/Assets/Projects/restaurant_img2.avif"
-import TECHSPEC from "./Assets/Projects/techspec.png";
-import TRAVELWELL from "./Assets/Projects/travelwell.png";
+import user from "../src/Assets/Projects/user.avif";
 
 
 export const PROJECTS = [
@@ -16,7 +9,14 @@ export const PROJECTS = [
     name: "Pahadi Baba",
     technologyUsed: " Javascript, ReactJs, React Native, Firebase",
     description: "Pahadi Baba is an restaurant app, which provides food at good cost , Through our restaurant, you may know more about a taste. ",
-    // url: "https://cosmos.azure.com/",
+    url: "https://github.com/Vivekkr277/pahadibaba",
+  },
+  {
+    image: user,
+    name: "User-Authentication",
+    technologyUsed: "Javascript, React Native, Firebase",
+    description: " This requires the user to provide an email address and secure password. Users can both register and sign in using a method called createUserWithEmailAndPassword or sign in to an existing account with signInWithEmailAndPassword..",
+    url: "https://github.com/Vivekkr277/User-Authentication",
   },
   // {
   //   image: TRAVELWELL,
