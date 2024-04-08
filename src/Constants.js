@@ -1,4 +1,4 @@
-
+import film from "../src/Assets/Projects/flim.jpg"
 import restaurant_img2 from "../src/Assets/Projects/restaurant_img2.avif"
 import user from "../src/Assets/Projects/user.avif";
 
@@ -18,13 +18,13 @@ export const PROJECTS = [
     description: " This requires the user to provide an email address and secure password. Users can both register and sign in using a method called createUserWithEmailAndPassword or sign in to an existing account with signInWithEmailAndPassword..",
     url: "https://github.com/Vivekkr277/User-Authentication",
   },
-  // {
-  //   image: TRAVELWELL,
-  //   name: "travlwell.com",
-  //   technologyUsed: "Shopify, React, typescript, polaris, GraphQL",
-  //   description: "Custom Luggage Tags and Passport Holders engraved with everywhere you've traveled and everywhere you will travel in the future.",
-  //   url: "https://travlwell.com/",
-  // }
+  {
+    image: film,
+    name: "FilmFlix",
+    technologyUsed: "Javascript, React Native",
+    description: "This app is used to show the movie list. Fetching data from 'The Movie Database' site using its API. It will display trending movie list, top rated movie list etc.",
+    url: "https://github.com/Vivekkr277/FilmFlix",
+  }
  
 ];
 
