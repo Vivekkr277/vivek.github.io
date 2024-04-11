@@ -12,19 +12,20 @@ export const PROJECTS = [
     url: "https://github.com/Vivekkr277/pahadibaba",
   },
   {
+    image: film,
+    name: "FilmFlix",
+    technologyUsed: "Javascript, React Native",
+    description: "This app is used to show the movie list. Fetching data from 'The Movie Database' site using its API. It will display trending movie list, top rated movie list etc.",
+    url: "https://github.com/Vivekkr277/FilmFlix",
+  },
+  {
     image: user,
     name: "User-Authentication",
     technologyUsed: "Javascript, React Native, Firebase",
     description: " This requires the user to provide an email address and secure password. Users can both register and sign in using a method called createUserWithEmailAndPassword or sign in to an existing account with signInWithEmailAndPassword..",
     url: "https://github.com/Vivekkr277/User-Authentication",
   },
-  {
-    image: film,
-    name: "FilmFlix",
-    technologyUsed: "Javascript, React Native",
-    description: "This app is used to show the movie list. Fetching data from 'The Movie Database' site using its API. It will display trending movie list, top rated movie list etc.",
-    url: "https://github.com/Vivekkr277/FilmFlix",
-  }
+ 
  
 ];
 
@@ -38,6 +39,7 @@ export const SKILLS = [
   { name: "Redux" },
   { name: "Nodejs"},
   { name: "Git"},
+  { name: "Tailwind CSS"},
 ];
 
 export const TOOLS = ["Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)", "Postman"]
