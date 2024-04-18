@@ -40,6 +40,7 @@ export const SKILLS = [
   { name: "Nodejs"},
   { name: "Git"},
   { name: "Tailwind CSS"},
+  { name: "PHP"},
 ];
 
 export const TOOLS = ["Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)", "Postman"]
