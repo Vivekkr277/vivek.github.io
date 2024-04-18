@@ -33,10 +33,7 @@ function About() {
               Professional <strong className="purple">Skillset </strong>
             </h1>
             {SKILLS.map((skill, index) => (
-              <Techstack
-                name={skill.name}
-               
-              />
+              <Techstack name={skill.name} />
             ))}
           </Col>
           <Col className="skill-wrapper">

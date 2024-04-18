@@ -24,9 +24,9 @@ function Home() {
               </h1>
 
               <p className="heading-description blockquote">
-                I am passionate about using Javascript and React Libraries
-                to create awesome user experiences. Cross-platform mobile development 
-                with React Native
+                I am passionate about using Javascript and React Libraries to
+                create awesome user experiences. Cross-platform mobile
+                development with React Native
               </p>
 
               <div className="heading-type">
