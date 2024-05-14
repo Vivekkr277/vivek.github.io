@@ -31,16 +31,20 @@ export const PROJECTS = [
 
 export const SKILLS = [
 
-  { name: "Html"},
-  { name: "CSS" },
-  { name: "JavaScript" },
-  { name: "ReactJs" },
-  { name: "React-Native" },
-  { name: "Redux" },
-  { name: "Nodejs"},
-  { name: "Git"},
-  { name: "Tailwind CSS"},
-  { name: "PHP"},
+  { name: "● Html"},
+  { name: "● CSS" },
+  { name: "● JavaScript" },
+  { name: "● C++" },
+  { name: "● DSA" },
+  { name: "● Tailwind CSS"},
+  { name: "● Bootstrap"},
+  { name: "● ReactJs" },
+  { name: "● React-Native" },
+  { name: "● Redux" },
+  { name: "● PHP"},
+  { name: "● Laravel"},
+  { name: "● JQuery"},
+  { name: "● AJAX"},
 ];
 
-export const TOOLS = ["Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)", "Postman"]
+export const TOOLS = ["Visual Studio Code", "Git","Github", "Chrome DevTools", "Npm (Node Package Manager)", "Postman"]

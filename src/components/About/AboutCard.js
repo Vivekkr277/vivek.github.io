@@ -14,9 +14,9 @@ function AboutCard() {
             Software Engineer who loves to transform ideas into reality using
             code.
             <br />
-            Motivated designer and developer with experience creating custom
-            websites with ReactJs, JavaScript, HTML5, CSS3. Shopify app using
-            ReactJs, Javascript, nodejs and Mobile App using React-native.
+            Motivated designer and developer  creating custom
+            websites with ReactJs, JavaScript, HTML5, CSS3, JQuery, Bootstrap. Shopify app using
+            ReactJs, Javascript, laravel and Mobile App using React-native.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
