@@ -11,13 +11,20 @@ function AboutCard() {
             <span className="purple">Vivek Kumar Pandit </span>
             from <span className="purple"> Bihar, India.</span>
             <br />
-            Software Engineer who loves to transform ideas into reality using
+            Software Developer who loves to transform ideas into reality using
             code.
-            <br />
-            Motivated designer and developer  creating custom
+            <br /><br />
+            {/* Motivated designer and developer  creating custom
             websites with ReactJs, JavaScript, HTML5, CSS3, JQuery, Bootstrap. Shopify app using
-            ReactJs, Javascript, laravel and Mobile App using React-native.
-            <br />
+            ReactJs, Javascript, laravel and Mobile App using React-native. */}
+            As a dedicated Full Stack Developer, I possess extensive expertise in both front-end and 
+            back-end development, with a proficient understanding of React Native, ReactJS, MySQL, 
+            and Laravel among other technologies. I thrive on creating applications that prioritize 
+            user experience and efficiency, demonstrated by my successful projects such as SpiceHouse 
+            Restaurant App, FilmFlix, and CRUD operations with Laravel. My commitment to continuous 
+            learning and improvement is evidenced by overcoming challenges and achieving goals like 
+            solving over 200 DSA questions on LeetCode.
+            <br /><br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>

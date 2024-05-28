@@ -6,16 +6,16 @@ import user from "../src/Assets/Projects/user.avif";
 export const PROJECTS = [
   {
     image: restaurant_img2,
-    name: "Pahadi Baba",
+    name: "SpiceHouse Restaurat App",
     technologyUsed: " Javascript, ReactJs, React Native, Firebase",
-    description: "Pahadi Baba is an restaurant app, which provides food at good cost , Through our restaurant, you may know more about a taste. ",
+    description: " A restaurant app project developed using React Native provides users a seamless experience to browse menus place orders, and manage their cart through components like UserCart, Home and Search. An admin panel , built with React JS , allows restuarant administrators to manage menu items, orders, and user information. ",
     url: "https://github.com/Vivekkr277/pahadibaba",
   },
   {
     image: film,
     name: "FilmFlix",
     technologyUsed: "Javascript, React Native",
-    description: "This app is used to show the movie list. Fetching data from 'The Movie Database' site using its API. It will display trending movie list, top rated movie list etc.",
+    description: "A movie app project developed using React Native utilizes navigations, hooks and routing to create a dynamic and user-friendly mobile applications. The app allows users to browse, search and view movie details about movies, leveraging React Navigation for seamless screen transitions.",
     url: "https://github.com/Vivekkr277/FilmFlix",
   },
   {
